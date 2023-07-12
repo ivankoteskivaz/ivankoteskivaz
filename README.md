@@ -1,5 +1,4 @@
-- 👀 I’m interested in ...aprender programção
-- 🌱 I’m currently learning ... python, c#,  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👊🔰 console.log("Olá! Meu nome é [**Ivan Vaz**]. <br>
+Eu estou interessado em aprender [phyton, C#]. <br>
+e eu já sei usar [`javascript`].");
 
